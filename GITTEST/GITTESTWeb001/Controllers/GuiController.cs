@@ -21,6 +21,10 @@ namespace GITTESTWeb001.Controllers
         public IActionResult Index()
         {
             return View();
-        }       
+        }
+        public IActionResult Add()
+        {
+            return Ok();
+        }
     }
 }
