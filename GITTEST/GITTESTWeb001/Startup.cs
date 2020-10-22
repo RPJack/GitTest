@@ -10,7 +10,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
 namespace GITTESTWeb001
-{
+{   
+    ///
+    ///Add description in 2020-10-22
+    ///
     public class Startup
     {
         public Startup(IConfiguration configuration)
